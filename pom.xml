@@ -27,22 +27,22 @@
     <dependency>
       <groupId>org.zkoss.zk</groupId>
       <artifactId>zkplus</artifactId>
-      <version>6.0.0</version>
+      <version>6.0.2</version>
     </dependency>
     <dependency>
       <groupId>org.zkoss.zk</groupId>
       <artifactId>zhtml</artifactId>
-      <version>6.0.0</version>
+      <version>6.0.2</version>
     </dependency>
     <dependency>
       <groupId>org.zkoss.zk</groupId>
       <artifactId>zkbind</artifactId>
-      <version>6.0.0</version>
+      <version>6.0.2</version>
     </dependency>
     <dependency>
       <groupId>org.zkoss.zk</groupId>
       <artifactId>zul</artifactId>
-      <version>6.0.0</version>
+      <version>6.0.2</version>
     </dependency>
     <dependency>
       <groupId>commons-logging</groupId>
@@ -71,13 +71,13 @@
 
   <!-- Add ZK repository. -->
   <!-- refers to : http://books.zkoss.org/wiki/ZK_Installation_Guide/Setting_up_IDE/Maven/Resolving_ZK_Framework_Artifacts_via_Maven -->
-  <!-- <repositories>
+  <repositories>
    <repository>
       <id>ZK CE</id>
       <name>ZK CE Repository</name>
       <url>http://mavensync.zkoss.org/maven2</url>
     </repository>
- </repositories>-->
+ </repositories>
  <!-- Add ZK repository END -->
 
   <build>
