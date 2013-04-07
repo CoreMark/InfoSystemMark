@@ -8,7 +8,7 @@ public class Car {
 	private String preview;
 	private String description;
 	private Integer price;
-	private Integer x;
+	private Integer xTest;
 	
 	public Car(){
 	}
